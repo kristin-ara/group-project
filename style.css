@@ -27,7 +27,8 @@ main h2 {
 /* Add Student Styles Below */
 .my-style {
     color:bisque;
-    background-color: azure;
+    background-color: rgb(10, 180, 180);
+    font-size: medium;
     padding: 3px;
 }
 
